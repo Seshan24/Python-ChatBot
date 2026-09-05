@@ -2,6 +2,8 @@
 
 A simple AI-powered chatbot built with **Python** and the **Groq API**. This project demonstrates how to create an interactive conversational chatbot that can maintain conversation history and generate AI responses in real time.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+
 ## 🚀 Features
 
 - 💬 Interactive command-line chatbot
