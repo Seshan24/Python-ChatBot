@@ -53,7 +53,7 @@ This project is designed for Google Colab and retrieves the Groq API key from Co
 Make sure your API key is stored securely as:
 
 ```text
-GROQ_API_KEY
+GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 Do not hard-code or publish your API key in the GitHub repository.
