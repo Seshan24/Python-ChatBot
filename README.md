@@ -63,7 +63,7 @@ Do not hard-code or publish your API key in the GitHub repository.
 ```text
 Python-ChatBot/
 │
-├── Python ChatBot.ipynb
+├── Python ChatBot.py
 └── README.md
 ```
 
